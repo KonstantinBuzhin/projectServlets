@@ -1,0 +1,34 @@
+body {
+  background: #E8EEF0 url(static/images/bg1.png);
+}
+.mainPage {
+	width: 290px;
+	
+	margin: 200px auto 0;
+	
+	font: 14px/18px Arial, Tahoma, sans-serif;
+	color: #444;
+}
+.mainPage button {
+	float: center;
+	padding: 6px 40px;
+	height: 50px;
+  border-top: 1px solid #98CCE7;
+  border-bottom: 1px solid #7DB0CC;
+  border-left: 1px solid #8CBFD9;
+  border-right: 1px solid #8CBFD9;
+  border-radius: 15px;
+	color: #FFF;
+  font: bold 16px Arial, Tahoma, sans-serif;
+	box-shadow: inset 0 1px #D4EBF7, 0 1px 3px #B8BEBE;
+	background: -moz-linear-gradient(top,  #badff3 0%, #7acbed 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#badff3), color-stop(100%,#7acbed));
+	background: -webkit-linear-gradient(top,  #badff3 0%,#7acbed 100%);
+	background: -o-linear-gradient(top,  #badff3 0%,#7acbed 100%);
+	background: -ms-linear-gradient(top,  #badff3 0%,#7acbed 100%);
+	background: linear-gradient(top,  #badff3 0%,#7acbed 100%);
+	background-color: #9FD7F0;
+	cursor: pointer;
+	text-shadow: 0 -1px rgba(0,0,0,0.15);
+	outline: none;
+}
