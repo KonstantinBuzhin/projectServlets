@@ -5,7 +5,7 @@
 <html>
 <script src='/eStore/static/js/jquery-3.5.0.js'></script>
 <head>
-<title>CofeShopeee</title>
+<title>CofeShop</title>
 <link href="/eStore/static/styles/bootstrap.css" rel='stylesheet'
 	type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
